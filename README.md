@@ -1,2 +1,2 @@
 # MPESA_API
-Using Mpesa APIs to build apps.
+Using Mpesa (B2C/C2B Payment) APIs to build apps.
