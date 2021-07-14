@@ -8,8 +8,6 @@ $response='{
 
 		"ResultDesc"="Confirmation Received Succesfully",
 
-
-
 }';
 
 //0-accepted
@@ -31,5 +29,4 @@ fwrite($log, $mpesaResponse);
 
 fclose($log);
 
-echo $response;
 ?>
